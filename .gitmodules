@@ -1,0 +1,9 @@
+[submodule "src/turtle_robot"]
+    path = src/turtle_robot
+    url = https://github.com/chucholoport/turtle_robot.git
+    branch = feature/ros-noetic_ubuntu-20.04
+
+[submodule "src/turtle_robot_sketchbook"]
+	path = src/turtle_robot_sketchbook
+	url = https://github.com/chucholoport/turtle_robot_sketchbook.git
+	branch = feature/arduino_uno
